@@ -5,6 +5,13 @@ _Full Stack Developer & Audio Engineer based in Wisconsin, USA_
 [Email](mailto:brandonwkipp@gmail.com) / [Website](https://brandonwkipp.com/) / [LinkedIn](https://www.linkedin.com/in/brandonwkipp/) / [Github](https://github.com/brandonwkipp/)
 ___
 ## <span role="image">&#128104;&#8205;&#128187;</span> Technical Experience
+**Full Stack Developer** @ [Sierra Interactive](https://sierrainteractive.com/) _(Aug 2021–Present)_<br/>
+The most powerful, end-to-end real estate platform available.
+  - Conversion of JavaScript/jQuery/ASPX pages into modernized React components with TypeScript
+  - Third-party API (Google Ads, Structurely) integration development for the admin portal website
+  - Documentation of developer onboarding, stack overview, and development standards
+
+**_Technologies used:_** React, TypeScript, Node.js, Postman, C#, .NET, Microsoft SQL Server
 
 **Full Stack Developer** @ [Science Museum of Minnesota](https://smm.org/) _(Mar 2019–Aug 2021)_<br/>
 A place for everyone to turn on the science, inspire learning, inform policy, and improve lives.
@@ -14,7 +21,7 @@ A place for everyone to turn on the science, inspire learning, inform policy, an
   - Infrastructure provisioning, end-to-end testing, and CI/CD pipeline automation
   - CMS integration, data modeling, schema customization, and migration scripting
 
-**_Technologies used:_** Node.js, React, TypeScript, Gatsby, GraphQL, Apollo, Cypress, Contentful, Electron, Express.js, Docker, Github Actions, AWS, GCP, Terraform, Arduino, Raspberry Pi
+**_Technologies used:_** Node.js, React, TypeScript, Gatsby, GraphQL, Apollo, Cypress, Contentful, Electron, Express.js, Docker, Github Actions, Amazon Web Services, Google Cloud Platform, Terraform, Arduino, Raspberry Pi
 
 **_Selected open-source work:_**
   - [app-template](https://github.com/scimusmn/app-template), a boilerplate Gatsby project for creating new exhibit applications
