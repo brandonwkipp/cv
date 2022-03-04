@@ -38,7 +38,7 @@ Professional event management service helping nonprofits raise millions for thos
 ___
 ## <span role="image">&#127911;</span> Audio Engineering Experience
 
-**Adjunct Instructor & Studio Manager** @ [Maple Tree Studio](https://www.beloit.edu/celeb/recording-studio/) _(Jan 2013–May 2016)_<br/>
+**Community Volunteer** @ [Maple Tree Studio](https://www.beloit.edu/celeb/recording-studio/) _(Jan 2013–May 2016)_<br/>
 ___
 ## <span role="image">&#128172;</span> Communication
 
