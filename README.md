@@ -5,7 +5,7 @@ _Full Stack Developer & Audio Engineer based in Wisconsin, USA_
 [Email](mailto:brandonwkipp@gmail.com) / [Website](https://brandonwkipp.com/) / [LinkedIn](https://www.linkedin.com/in/brandonwkipp/) / [Github](https://github.com/brandonwkipp/)
 ___
 ## <span role="image">&#128104;&#8205;&#128187;</span> Technical Experience
-**Full Stack Developer** @ [Sierra Interactive](https://sierrainteractive.com/) _(Aug 2021–Present)_<br/>
+**Full Stack Developer** @ [Sierra Interactive](https://sierrainteractive.com/) _(Aug 2021–Mar 2022)_<br/>
 The most powerful, end-to-end real estate platform available.
   - Conversion of JavaScript/jQuery/ASPX pages into modernized React components with TypeScript
   - Third-party API (Google Ads, Structurely) integration development for the admin portal website
