@@ -48,7 +48,7 @@ ___
 ## <span role="image">&#128172;</span> Communication
 
 **Language**: English (Native)<br/>
-**Timezone**: UTC−06:00 (Central Standard Time) /	UTC−05:00 (Central Daylight Time)
+**Timezone**: UTC-06:00 (Central Standard Time) /	UTC-05:00 (Central Daylight Time)
 ___
 ## <span role="image">&#128104;&#8205;&#127891;</span> Education
 
