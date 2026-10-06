@@ -63,7 +63,9 @@ React • TypeScript • Sass/SCSS • Node.js • GraphQL • Amazon Web Servic
 ## Education
 
 **Madison Media Institute** - Madison, Wisconsin _(Sep 2011-Feb 2013)_
+
 _Associate of Applied Science_, Recording & Music Technology
 
 **[Beloit College](https://www.beloit.edu/)** - Beloit, Wisconsin _(Sep 2009-May 2011)_
+
 Studied Music Theory & Composition
